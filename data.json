@@ -1,53 +1,10 @@
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "email": "sample@grc.com",
-    "phone": "+1-202-555-0173",
-    "address": {
-      "street": "123 Main St",
-      "city": "Anytown",
-      "state": "CA",
-      "zip": "12345"
-    },
-    "company": {
-      "name": "Tech Solutions",
-      "position": "Software Engineer",
-      "department": "Development"
-    }
-  },
-  {
-    "id": 2,
-    "name": "Jane Smith",
-    "email": "jane@example.com",
-    "phone": "+1-303-555-0199",
-    "address": {
-      "street": "456 Elm St",
-      "city": "Othertown",
-      "state": "NY",
-      "zip": "54321"
-    },
-    "company": {
-      "name": "Creative Studios",
-      "position": "Graphic Designer",
-      "department": "Marketing"
-    }
-  },
-  {
-    "id": 3,
-    "name": "Michael Johnson",
-    "email": "michael@webdev.com",
-    "phone": "+1-404-555-0123",
-    "address": {
-      "street": "789 Pine Rd",
-      "city": "Techville",
-      "state": "TX",
-      "zip": "67890"
-    },
-    "company": {
-      "name": "Innovate Inc.",
-      "position": "Project Manager",
-      "department": "Operations"
-    }
+    "title": "Atomic Habits",
+    "author": "Renz DC",
+    "date": "2025",
+    "status": false,
+    "available": false
   }
 ]
